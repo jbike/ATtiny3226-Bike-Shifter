@@ -1,2 +1,2 @@
 # ATtiny3226-Bike-Shifter
-Use a modified serrvo to shift bicycle gears electronically.
+Use a modified servo to shift bicycle gears electronically.
