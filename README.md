@@ -11,4 +11,4 @@ Configured for deep sleep between shifts, 0.7uA, shifts remain fast.
 
 ![ATtiny3226-Bike-Shifter](bike_shifter.jpg)
 
-![ATtiny3226-Bike-Shifter](2026-11-02_171923_20261031_085636)
+![ATtiny3226-Bike-Shifter](2026-11-02_171923_20261031_085636.jpg)
